@@ -1,0 +1,26 @@
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 65px;
+}
+
+.container h2{
+  text-align: center;
+}
+
+.card-info{
+  box-shadow: 0 0 5px #e4e7ea;
+  border: 1px solid #E4E7EA;
+  border-radius: 2px;
+  width: 200px;
+  text-align: center;
+}
+
+.card-info img{
+  height: 132px;
+  width: 100%;
+}
+
+.card-info p {
+  opacity: .5;
+}
